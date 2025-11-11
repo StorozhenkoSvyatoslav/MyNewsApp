@@ -8,17 +8,7 @@
  *   **Search Screen**: Allows users to search for news articles by keyword.
  *   **Favorites Screen**: Shows a list of articles that the user has saved.
  *   **Detail Screen**: Displays the full content of a selected news article.
-​
- ## Screenshots
-​
-<img width="669" height="1369" alt="image" src="https://github.com/user-attachments/assets/08d2c61c-3e70-4077-ba7f-44e04f6aa12e" />
-<img width="663" height="1364" alt="image" src="https://github.com/user-attachments/assets/588c1552-e13d-43c2-8f6f-c12fc68f39dc" />
-<img width="669" height="1366" alt="image" src="https://github.com/user-attachments/assets/e36fb082-2f24-4f4d-85bb-eee34e478c49" />
-<img width="674" height="1372" alt="image" src="https://github.com/user-attachments/assets/5bda8623-5bf6-4303-af8b-bf93562a8d7c" />
 
-
-
-​
  ## Technologies Used
 ​
  *   **Kotlin**: The primary programming language for the app.
@@ -32,6 +22,14 @@
  *   **DataStore**: For storing user preferences and saved articles.
  *   **Gson**: For parsing JSON data from the news API.
 ​
+ ## Screenshots
+​
+<img width="669" height="1369" alt="image" src="https://github.com/user-attachments/assets/08d2c61c-3e70-4077-ba7f-44e04f6aa12e" />
+<img width="663" height="1364" alt="image" src="https://github.com/user-attachments/assets/588c1552-e13d-43c2-8f6f-c12fc68f39dc" />
+<img width="669" height="1366" alt="image" src="https://github.com/user-attachments/assets/e36fb082-2f24-4f4d-85bb-eee34e478c49" />
+<img width="674" height="1372" alt="image" src="https://github.com/user-attachments/assets/5bda8623-5bf6-4303-af8b-bf93562a8d7c" />
+
+
  ## How to Build
 ​
  1.  Clone the repository: https://github.com/StorozhenkoSvyatoslav/MyNewsApp
