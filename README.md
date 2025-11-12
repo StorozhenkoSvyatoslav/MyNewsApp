@@ -1,6 +1,6 @@
 # MyNewsApp
 ​
- This is a simple news application for Android, built using modern Android development tools and libraries. The app allows users to browse news articles, search for specific topics, and save their favorite articles.
+ This is a news application for Android, built using modern Android development tools and libraries. The app allows users to browse news articles, search for specific topics, and save their favorite articles.
 ​
  ## Features
 ​
